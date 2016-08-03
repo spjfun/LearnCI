@@ -20,6 +20,8 @@
   "dependencies": {
     "express": "^4.14.0"
   },
+  //npm install mocha --save-dev
+  //devDependencies，正式上線環境不會被安裝
   "devDependencies": {
     "mocha": "^3.0.0"
   }
