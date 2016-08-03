@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/spjfun/LearnCI/issues"
   },
-  "homepage": "https://github.com/spjfun/LearnCI#readme"
+  "homepage": "https://github.com/spjfun/LearnCI#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
