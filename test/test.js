@@ -10,6 +10,9 @@ describe('Array', function(){
 
 			//一筆正確的測試 
 			assert.equal(-1, [1,2,3].indexOf(0));
+
+			//test-github-flow
+			assert.equal(-1, [1,2,3].indexOf(5))
 		})
 	})
 })
